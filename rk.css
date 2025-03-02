@@ -4065,12 +4065,13 @@ a {
     /* top: 63vh; */
     display: flex;
     /* margin-inline: 3px; */
-    right:68%;
+    right:64%;
     /* left: 0%; */
-    padding-top: 250px;
+    padding-top: 520px;
     /* flex-direction: column; */
     /* justify-content:flex-end; */
     align-items: center;
+    justify-content: center;
     position: relative;
     /* padding-bottom: 70px; */
     >p{
