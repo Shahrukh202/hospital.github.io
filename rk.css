@@ -1640,7 +1640,7 @@ background-color: aqua;
   }
 
   .about{
-    height: 100vh !important;
+    height: 99vh !important;
   }
 }
 
@@ -4139,7 +4139,7 @@ a {
   .services-section{
   position: relative;
   right: 1%;
-  /* top: 20%; */
+  top: -3%;
   /* margin-top: 50px; */
   overflow-y: hidden;
   /* background-color: #2b7055; */
@@ -4148,7 +4148,7 @@ a {
   width: 100%;
   display: flex;
   flex-direction: column;
-  
+     
   
   >h1{
     font-size: 15px;
@@ -4166,7 +4166,7 @@ a {
     }
   }
  .active_service{
-  padding-top: 80px;
+  padding-top: 250px;
   
  }
  .book-apt{
