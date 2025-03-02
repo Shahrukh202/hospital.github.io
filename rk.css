@@ -4148,6 +4148,7 @@ a {
   width: 100%;
   display: flex;
   flex-direction: column;
+
      
   
   >h1{
@@ -4166,7 +4167,8 @@ a {
     }
   }
  .active_service{
-  padding-top: 250px;
+   position: relative;
+   top: 42%;
   
  }
  .book-apt{
